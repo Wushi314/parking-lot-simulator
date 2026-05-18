@@ -1,0 +1,4 @@
+assignment_method,num_rows,makespan,avg_wait_time,total_wait_time,max_wait_time,instance_time,ip_time,num_vars,num_constraints,time_horizon,status,mip_gap,gif_filename
+random,6,28,5.0,80.0,13.0,6.030637979507446,5.677000045776367,18093,22334,98,OPTIMAL,0.0,random_num_rows_6_queued_fifo_fixed.gif
+nearest,6,30,5.875,94.0,13.0,5.517090559005737,5.258999824523926,15273,18804,95,OPTIMAL,0.0,nearest_num_rows_6_queued_fifo_fixed.gif
+furthest,6,21,3.0,48.0,7.0,1.7104077339172363,1.3619999885559082,15273,18804,95,OPTIMAL,0.0,furthest_num_rows_6_queued_fifo_fixed.gif

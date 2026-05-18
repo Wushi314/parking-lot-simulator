@@ -1,0 +1,4 @@
+num_rows,num_spots,num_cars,assignment_method,is_graphable,status_code,status,solver_runtime,wall_runtime,num_vars,num_constraints,time_horizon,has_solution,makespan,avg_wait_time,total_wait_time,max_wait_time,mip_gap
+8,24,24,random,True,2,OPTIMAL,44.83800005912781,45.57371139526367,38363,46156,131,True,38,6.625,159.0,16.0,0.0
+8,24,24,nearest,True,2,OPTIMAL,52.384000062942505,53.003835916519165,36997,43844,128,True,44,9.125,219.0,19.0,0.0
+8,24,24,furthest,True,2,OPTIMAL,19.6010000705719,20.334206342697144,36997,43844,128,True,29,5.208333333333333,125.0,10.0,0.0
