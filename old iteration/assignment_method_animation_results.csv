@@ -1,0 +1,4 @@
+assignment_method,num_rows,makespan,instance_time,ip_time,status,gif_filename
+random,8,27,1.0248475074768066,0.36299991607666016,OPTIMAL,random_num_rows_8.gif
+nearest,8,28,1.1146960258483887,0.437000036239624,OPTIMAL,nearest_num_rows_8.gif
+furthest,8,29,1.0631122589111328,0.40400004386901855,OPTIMAL,furthest_num_rows_8.gif
